@@ -19,3 +19,9 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 - If you have two lines in this list item
 
     Use four spaces to indent the next line
+
+### Ordered Lists
+1. Use numbers
+2. A space after the number
+3. If you have two lines in this list item
+    Use four spaces to indent the next line
