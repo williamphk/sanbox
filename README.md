@@ -26,3 +26,9 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 3. If you have two lines in this list item
 
     Use four spaces to indent the next line
+
+## Links
+
+Here is a link to [my website](www.linkedin.com/in/williamphk).
+
+Properly formatted URLs will be linked to www.linkedin.com/in/williamphk
