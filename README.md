@@ -31,4 +31,6 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 
 Here is a link to [my website](https://www.linkedin.com/in/williamphk).
 
-Properly formatted URLs will be linked to www.linkedin.com/in/williamphk
+Properly formatted URLs will be linked:
+
+www.linkedin.com/in/williamphk
