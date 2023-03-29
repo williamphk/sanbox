@@ -34,3 +34,5 @@ Here is a link to [my website](https://www.linkedin.com/in/williamphk).
 Properly formatted URLs will be linked:
 
 www.linkedin.com/in/williamphk
+
+![](/_readme/IMG-20170424-WA0002.jpg)
