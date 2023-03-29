@@ -35,4 +35,10 @@ Properly formatted URLs will be linked:
 
 www.linkedin.com/in/williamphk
 
-![](/_readme/IMG-20170424-WA0002.jpg)
+## Images
+
+Images can be added by using a full URL
+
+![Text Image](https://raw.githubusercontent.com/williamphk/sanbox/main/_readme/IMG-20170424-WA0002.jpg)
+
+![Text Image](/_readme/IMG-20170424-WA0002.jpg)
