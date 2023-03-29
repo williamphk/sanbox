@@ -48,3 +48,7 @@ The URL can also be relative:
 You can use plain HTML in a README.md file
 
 <img src="https://raw.githubusercontent.com/williamphk/sanbox/main/_readme/IMG-20170424-WA0002.jpg" width="50px">
+
+## Code 
+
+Use the `<html>` tag to start an HTML document.
